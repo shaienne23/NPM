@@ -1,7 +1,7 @@
 {
   "name": "primeiro-projeto",
   "version": "1.0.0",
-  "description": "Este é meu primeiro projeto utilizando o Node e o NPM.",
+  "description": "Este é o meu primeiro projeto utilizando o Node e o NPM.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
